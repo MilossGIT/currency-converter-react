@@ -9,6 +9,8 @@ Welcome to the Currency Converter Web App, a simple yet powerful tool for real-t
 - **User-Friendly Interface**: An intuitive and user-friendly design.
 - **Mobile Responsiveness**: Enjoy a responsive design that works on various devices.
 
+You can access the ExchangeRates API [here](https://manage.exchangeratesapi.io/).
+
 ## Installation
 
 To run this application locally, follow these steps:
